@@ -7,6 +7,7 @@ Kesimpulan perbedaan:
 2) App State menggunakan nilai atau status global (terpisah dari seluruh widget), serta dapat digunakan dan dimodifikasi oleh beberapa widget sekaligus secara terpisah
 
 ## Kelebihan App State Management
+
 1) Skalabilitas
 App State Management memungkinkan pengembang untuk memisakahkan antara logika status aplikasi dengan tampilan UI-nya. Hal ini membuat kode aplikasi jadi semakin rapi dan mudah dikelola, sehingga akan sangat membantu apabila ke depannya aplikasi akan dikembangkan lagi.
 
